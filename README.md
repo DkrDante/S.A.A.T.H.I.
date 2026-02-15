@@ -236,7 +236,7 @@ We welcome contributions! Areas of interest:
 - Integration tests for API endpoints
 - Minimum 80% code coverage
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
 
 ## 🗺️ Roadmap
 
@@ -319,13 +319,6 @@ A: Amazon Bedrock (Claude 3 Sonnet) generates personalized explanations, hints, 
 - Anthropic for Claude 3 Sonnet via Amazon Bedrock
 - The learning science community for research on spaced repetition, active recall, and adaptive learning
 - Open source contributors and the educational technology community
-
-## 📞 Contact & Support
-
-- **Documentation**: [docs.saathi.yourdomain.com](https://docs.saathi.yourdomain.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/saathi/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/saathi/discussions)
-- **Email**: <support@saathi.yourdomain.com>
 
 ---
 
